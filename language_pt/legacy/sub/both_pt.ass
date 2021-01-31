@@ -12,13 +12,13 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../legacy/1080p/op.mp4
-Video File: ../../../legacy/1080p/op.mp4
+Audio File: ../../../../../../VN/Umineko/ARQUIVOS DO SWITCH/UminekoSwitch-Movies/movie/pc_op.mp4
+Video File: ../../../../../../VN/Umineko/ARQUIVOS DO SWITCH/UminekoSwitch-Movies/movie/pc_op.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 39
-Video Position: 2510
+Video Zoom Percent: 0.375000
+Active Line: 23
+Video Position: 111
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +45,8 @@ Dialogue: 0,0:00:16.30,0:00:19.23,Romaji,,0,0,0,,{\blur3}Mi fanno morire di fame
 Dialogue: 0,0:00:19.77,0:00:25.50,Romaji,,0,0,0,,{\blur3}Mi fanno morire credendo di poter prevedere.
 Dialogue: 0,0:00:27.94,0:00:34.35,Romaji,,0,0,0,,{\blur3}yo wo watari yuku tsuki ni shio wa takaku michite
 Dialogue: 0,0:00:34.35,0:00:40.89,Romaji,,0,0,0,,{\blur3}umineko no naku koe wa fuon no kumo wo maneku
-Dialogue: 0,0:00:40.89,0:00:47.16,Romaji,,0,0,0,,{\blur3}konjiki no noroi to nokosareshi kotoba to
+Dialogue: 0,0:00:40.89,0:00:44.15,Romaji,,0,0,0,,{\blur3}konjiki no noroi to 
+Dialogue: 0,0:00:44.15,0:00:47.16,Romaji,,0,0,0,,{\blur3}nokosareshi kotoba to
 Dialogue: 0,0:00:47.16,0:00:53.80,Romaji,,0,0,0,,{\blur3}himeyaka na hohoemi wa kurenai ni nijimu
 Dialogue: 0,0:00:53.80,0:01:00.54,Romaji,,0,0,0,,{\blur3}tozasareta hitomi de nani wo motometeru
 Dialogue: 0,0:01:00.54,0:01:06.48,Romaji,,0,0,0,,{\blur3}kowareta sono kakera wo atsumete mite mo
@@ -64,7 +65,8 @@ Dialogue: 0,0:00:16.30,0:00:19.23,Tradução,,0,0,0,,{\blur3}Eles me fazem morre
 Dialogue: 0,0:00:19.77,0:00:25.50,Tradução,,0,0,0,,{\blur3}Me fazem morrer acreditando que podem prever tudo.
 Dialogue: 0,0:00:27.94,0:00:34.35,Tradução,,0,0,0,,{\blur3}A lua atravessa a noite e agita a maré.
 Dialogue: 0,0:00:34.35,0:00:40.89,Tradução,,0,0,0,,{\blur3}O choro das gaivotas atrai nuvens turbulentas.
-Dialogue: 0,0:00:40.89,0:00:47.16,Tradução,,0,0,0,,{\blur3}Uma maldição dourada, palavras deixadas para trás
+Dialogue: 0,0:00:40.89,0:00:44.15,Tradução,,0,0,0,,{\blur3}Uma maldição dourada,
+Dialogue: 0,0:00:44.15,0:00:47.16,Tradução,,0,0,0,,{\blur3}palavras deixadas para trás
 Dialogue: 0,0:00:47.16,0:00:53.80,Tradução,,0,0,0,,{\blur3}e sorrisos discretos são manchados de vermelho-sangue.
 Dialogue: 0,0:00:53.80,0:01:00.54,Tradução,,0,0,0,,{\blur3}O que deseja ver com esses olhos fechados?
 Dialogue: 0,0:01:00.54,0:01:06.48,Tradução,,0,0,0,,{\blur3}Mesmo que tente reunir esses fragmentos despedaçados,
